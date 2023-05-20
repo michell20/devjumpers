@@ -1,5 +1,5 @@
-# vamos a ignorar todo lo que esta en el repositorio que tenga extencion .txt
-*.txt
+# vamos a ignorar todo lo que esta en el repositorio que tenga extencion
 
-# con la linea siguiente vamos a ignorar todos los archivos que esten contenidos en la capeta privada
+# con la linea siguiente vamos a ignorar todos los archivos que esten 
+
 privada
