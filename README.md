@@ -2,9 +2,9 @@
 
 # michel vera 
 
-Nombre del compareño 1. :
+Jeremy Rojas 1. https://github.com/J-Rojas29
 
-Nombre del compareño 2
+Isabela Echeverry:  https://github.com/i-echeverri22
 
-Nombre del compareño 3
+Nombre del compareño :
 
